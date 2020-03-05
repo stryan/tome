@@ -1,4 +1,4 @@
-module tome
+module github.com/stryan/tome
 
 go 1.14
 
